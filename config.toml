@@ -1,0 +1,46 @@
+baseURL = "https://example.edu"
+languageCode = "en-us"
+title = "Ioannis (Yannis) Papadakis"
+theme = "avicenna"
+googleAnalytics = ""
+timeout=3000
+
+[params]
+  subtitle= "PhD Student"
+  interests=" Technological Change, Labor Economics "
+  cv_name= "dd"
+  blog=""
+  
+  [[params.affilation]]
+  name = "Queen Mary University of London"
+  position = "PhD Student"
+  contact = "i.papadakis@qmul.ac.uk"
+  
+  [[params.affilation]]
+  name = "Centre for Economic Performance (LSE)"
+  position = "Research Assistant"
+  
+  
+  
+[[params.projects]]
+	[[params.projects.project]]
+		name = "The Labour Lock-In Effect of Automation: Evidence from Patents in US local Labor Markets"
+		description  = "This paper examines the effect of automation on local labour markets using US administrative data. It exploites the industrial and occupational structure to identify exogenous automation shocks on the US commuting zones.  The findings corraborate previous evidence on the displacement effect of automation and suggest that automation decreases the labour mobility. Automation stabilises work, and this insulation effect comes at the expense of the wage growth. The investigation of the adjustment mechanism to automation shows that the adjustment is at the hiring margin, reconciling the initially puzzling decrease in separations with the decrease in  employment."
+		project_page = ""
+		code_link = ""
+		blog_link = ""
+
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://linkedin.com/in/yannispapadakis/"
+  
+  
+  
+ 
+
+
+
+
+
