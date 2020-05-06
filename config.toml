@@ -1,7 +1,8 @@
-baseURL = "https://example.edu"
+baseURL = "https://ioannispapadakis.github.io/MyWebsite/"
 languageCode = "en-us"
 title = "Ioannis (Yannis) Papadakis"
 theme = "avicenna"
+publishDir = "docs"
 googleAnalytics = ""
 timeout=3000
 
