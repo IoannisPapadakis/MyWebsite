@@ -1,5 +1,6 @@
 baseURL = "https://example.edu"
 languageCode = "en-us"
+publishDir = "docs"
 title = "Hadi Sinaee"
 theme = "avicenna"
 googleAnalytics = "UA-1234-6"

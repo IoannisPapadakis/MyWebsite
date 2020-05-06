@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ioannis (Yannis) Papadakis</title>
-    <link>https://ioannispapadakis.github.io/MyWebsite/</link>
-    <description>Recent content on Ioannis (Yannis) Papadakis</description>
+    <title>Hadi Sinaee</title>
+    <link>https://example.edu/</link>
+    <description>Recent content on Hadi Sinaee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ioannispapadakis.github.io/MyWebsite/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.edu/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

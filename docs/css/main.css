@@ -8,7 +8,6 @@ body {
   color: #333;
   line-height: 1.5;
   font-size: 16px;
-  
 }
 
 a,
@@ -102,7 +101,6 @@ h6 {
   font-weight: 100;
   margin-bottom: 15px;
   margin-top: 20px;
-  
 }
 
 h1 {
@@ -136,13 +134,12 @@ h6 {
 }
 
 ul {
-  margin-left: 0px;
+  padding-left: 15px;
 }
 
 ul.flat {
-  margin-left: 35px;
-  padding: 15px;
-  margin-top: -40px
+  margin: 0;
+  padding: 0;
 }
 
 ul.flat li {
@@ -176,7 +173,7 @@ ul {
 }
 
 .highlight pre {
-  margin-bottom: 0px;
+  margin-bottom: 0;
   margin-top: 0;
   padding: 20px;
   background-color: #fafafa !important;
@@ -187,61 +184,53 @@ ul {
 }
 
 .wrapper {
-  max-width: 700px;
+  max-width: 760px;
   margin: 0 auto;
 }
 
 .container {
   margin-top: 50px;
-  
 }
 
 .header {
-  margin-bottom: 1px;
-   padding-bottom: 1px; 
+  margin-bottom: 20px;
+  /* padding-bottom: 20px; */
 }
 
 .header .profile_image {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-width: 300px;
-  height: 260px;
+  max-width: 30%;
+  height: auto;
   border-radius: 50%;
-   float: center; 
+  /* float: left; */
 }
 
 .header h1,
 .header h2 {
   margin: 0;
-  padding: 10px;
+  padding: 0;
   font-size: 2rem;
-  line-height: 3em;
-  text-align: center
+  line-height: 1.3em;
 }
 
 .header h2 {
   font-size: 1.125rem;
-  
 }
 
 .header nav {
-  margin-top: 0px;
-   border-top: 1.5px solid #f4f4f4; 
-   
+  margin-top: 20px;
+  /* border-top: 1px solid #f4f4f4; */
 }
 
 .header nav ul,
 .header nav li {
-  margin-right: 100px;
- 
-  
+  margin: 0;
 }
 
 .header nav ul.flat {
-  margin-right: 30px;
-  margin-top: -85px;
-  margin-bottom: 5px;
+  padding: 0;
 }
 
 .header nav ul.flat li {
@@ -259,13 +248,11 @@ ul {
 }
 
 .header .site-affilation .email {
-   color: #a00; 
-  font-size: 16px;
+  /* color: #a00; */
+  font-size: 14px;
   display: block;
   font-family: "Ubuntu Mono";
   font-weight: bolder;
-  margin-left: 20px
-  
 }
 
 .header .site-affilation .position {
@@ -277,14 +264,13 @@ ul {
 }
 
 .header .site-affilation nav {
-  margin: 0px;
+  margin: 0;
   padding: 0;
   border: none;
-  text-align: center
 }
 
 .header .site-affilation nav ul svg {
-  max-height: 20px;
+  max-height: 15px;
 }
 
 /* header for projects */
@@ -304,14 +290,12 @@ ul {
   font-size: 1.5em;
   margin-top: 10%;
   display: block;
-  
 }
 
 .page_meta {
   display: block;
   font-family: "Ubuntu Mono";
   font-size: 14px;
-  
 }
 
 .page_meta_icon {
@@ -320,10 +304,9 @@ ul {
 
 .email {
   /* color: #a00; */
-  font-size: 20px;
+  font-size: 16px;
   font-family: "Ubuntu Mono";
   font-weight: bolder;
-  
 }
 
 .collaborators {
@@ -347,18 +330,18 @@ ul {
 
 .code_blog {
     font-family: "Ubuntu Mono";
-    font-size: 20px;
+    font-size: 14px;
     margin: 0em .9em 0em;
 }
 
 .blog_cv {
     font-family: "Ubuntu Mono";
-    font-size: 20px;
+    font-size: 17px;
     /* margin: 0em .9em 0em; */
 }
 
 .project_description {
- margin: 1em 0em 0em;
+ margin: .5em .9em 0em;
 }
 
 .section .section-header {
@@ -367,8 +350,7 @@ ul {
   text-transform: uppercase;
   color: #999;
   margin-bottom: 20px;
-  letter-spacing: 1.5px;
-  
+  letter-spacing: 1px;
 }
 
 .recent-posts .posts .introduction {
@@ -402,17 +384,16 @@ ul {
 }
 
 .footer {
-  text-align: center;
-  font-size: 0.6em;
+  text-align: right;
+  font-size: 0.75em;
   color: #999;
-  border-top: 1.5px solid #f4f4f4;
+  border-top: 1px solid #f4f4f4;
   padding: 20px 0;
   margin-top: 40px;
-  
 }
 
 .page-title {
-  margin-bottom: 8px;
+  margin-bottom: 0;
 }
 
 .tag-cloud {
